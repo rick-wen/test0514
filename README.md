@@ -10,7 +10,7 @@
 
 int main()
 {
-  print("Hello");
+  print("Hello")安安;
   return o;
 }
 ```
